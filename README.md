@@ -1,54 +1,23 @@
-# Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# Frontend Challange - Read me
 
-## Table of contents
+This is my first project. A started with the first challange with Frontend Mentor.
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+## Description
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+This is a simple container project.
 
-## Overview
-
-### Screenshot
-
-![](./screenshot.jpeg)
+For this style I've used HTML and CSS.
 
 
+## What I have learn
 
-### Built with
+In this project are require the uses of media queries to get responsive layout. 
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- media queries
+- how to center all the content 
+- image width
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+### Feedback
 
-
-
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-
-
-### Continued development
-
-- responsive design
-- flexbox
-
-
-
-
-
-## Author
-
-- Frontend Mentor - [@BabaRagnarok](https://www.frontendmentor.io/profile/BabaRagnarok)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+I want to learn as much as possible. I really appreciate informative and inspiring feedback.

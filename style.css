@@ -1,0 +1,68 @@
+/* Screen phone */
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background: hsl(212, 45%, 89%);  
+    justify-content: center;
+    align-items: center;
+    font-family: 'Outfit', sans-serif;
+    min-width: 375px;
+    max-width: 1440px;
+}
+
+img {
+    max-width: 90%;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 400;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    margin: 20px;
+}
+
+
+h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    margin: 15px;
+    text-align: center;
+}
+
+
+
+.container {
+    display: flex;
+    height: 55vh;
+    width: 35vh;
+}
+
+.qrcode {
+    text-align: center;
+    background: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    box-shadow: 3px 3px 15px rgba(53, 53, 53, 0.39);
+}
+
+.attribution {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.qrcode img {
+    border-radius: 10px;
+    margin-top: 15px;
+}
